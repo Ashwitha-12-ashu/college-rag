@@ -1,0 +1,10 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+uploaded_document.pdf
+gemini_test.sh
+gemini_test.sh.save
+llm.py
